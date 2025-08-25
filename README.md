@@ -45,21 +45,21 @@
 
 ---
 
-### 🏆 Achievements  
-
+<!-- Streak (use the more reliable Demolab domain) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
----
-
-### 📈 Yearly Contributions  
-
+### 🔥 Contribution Activity
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/ArpitChhabra23306" alt="Yearly Commit Graph" />
+  <!-- If this ever blips, just refresh; it's usually brief. -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChhabra23306&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
----
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=algolia&row=1&column=6&no-bg=true&no-frame=true&margin-w=10&margin-h=10" />
+</p>
 
 ### 🌐 Connect with me  
 <p align="center">
