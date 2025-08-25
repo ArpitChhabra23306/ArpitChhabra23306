@@ -46,15 +46,14 @@
 
 ---
 
-<!-- Streak (use the more reliable Demolab domain) -->
-hello steak
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChhabra23306&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
-### 🏆 Achievements
+### 📅 Yearly Contributions
 <p align="center">
-  <img src="https://metrics.lecoq.io/ArpitChhabra23306?template=classic&base=header&plugins=achievements&achievements.threshold=C&achievements.display=compact&achievements.limit=10" />
+  <img src="https://github-contribution-graph.ez4o.com/?username=ArpitChhabra23306&theme=github" width="100%"/>
 </p>
 
 
