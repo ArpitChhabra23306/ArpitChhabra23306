@@ -32,8 +32,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitChhabra23306&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true" height="160" />
 </p>
+
 
 ---
 
@@ -46,20 +47,16 @@
 ---
 
 <!-- Streak (use the more reliable Demolab domain) -->
+hello steak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-### 🔥 Contribution Activity
-<p align="center">
-  <!-- If this ever blips, just refresh; it's usually brief. -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChhabra23306&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
-
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=algolia&row=1&column=6&no-bg=true&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://metrics.lecoq.io/ArpitChhabra23306?template=classic&base=header&plugins=achievements&achievements.threshold=C&achievements.display=compact&achievements.limit=10" />
 </p>
+
 
 ### 🌐 Connect with me  
 <p align="center">
