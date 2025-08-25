@@ -45,11 +45,6 @@
 </p>
 
 ---
-### 📅 Yearly Contributions
-<p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/ArpitChhabra23306" />
-</p>
-
 
 ### 🌐 Connect with me  
 <p align="center">
