@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpit Chhabra</h1>
-<h3 align="center">🚀 B.Tech IT Student @ IIIT Una | MERN Stack Developer | Tech Explorer 💡</h3>
+<h3 align="center">🚀 B.Tech IT Student @ IIIT Una | MERN Stack Developer | Tech Explorer 💡 & Crypto Curious 💸</h3>
 
 ---
 
 ### 👨‍💻 About Me  
 - 🔭 Currently building **ReactCart** & **PathBlazer (AI-powered career assistant)**  
-- 🌱 Learning **MERN stack, Cloud integration, DevOps basics**  
+- 🌱 Exploring **advanced React patterns, scalable backend systems, and authentication workflows while optimizing UI/UX**.  
 - 👯 Open to collaborating on **full-stack and frontend projects**  
 - 💬 Ask me about **React.js, Tailwind CSS, MERN stack, scalable UI/UX, authentication systems**  
 - 📫 Reach me at **arpitchhabra9692@gmail.com**  
@@ -20,11 +20,11 @@
 **Backend:** Node.js, Express.js, RESTful APIs, Authentication (Clerk, JWT)  
 **Databases & Cloud:** MongoDB, SQL, Cloudinary, Stripe  
 **Dev Tools:** Git, GitHub, VS Code, Postman, Docker (Basics), Linux  
-**Core CS Concepts:** Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems, Computer Networks, SDLC  
+**Core CS Concepts:** DSA, OOP, DBMS, Operating Systems, Computer Networks, SDLC  
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats & Activity  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArpitChhabra23306&show_icons=true&theme=tokyonight&count_private=true" height="160" />
@@ -40,7 +40,7 @@
 ### 🔥 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChhabra23306&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChhabra23306&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -48,7 +48,15 @@
 ### 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=onedark&margin-w=10&margin-h=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+### 📈 Yearly Contributions  
+
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api/v1/ArpitChhabra23306" alt="Yearly Commit Graph" />
 </p>
 
 ---
@@ -56,7 +64,7 @@
 ### 🌐 Connect with me  
 <p align="center">
 <a href="https://linkedin.com/in/arpit-chhabra-7a1a93276" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://codolio.com/profile/arpitChhabra" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/source-code.png" height="40"/></a>
+<a href="https://codolio.com/profile/arpitChhabra" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 <a href="https://instagram.com/arpit_chhabra_9692" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 <a href="mailto:arpitchhabra9692@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
