@@ -64,6 +64,13 @@
 
 ---
 
+### 🖼️ My 3D GitHub Contributions
+
+![3D Green Animate](./profile-3d-contrib/profile-green-animate.svg)
+![Night Rainbow](./profile-3d-contrib/profile-night-rainbow.svg)
+![Git Block](./profile-3d-contrib/profile-gitblock.svg)
+
+
 ### 🔥 Contribution Graph  
 
 <p align="center">
