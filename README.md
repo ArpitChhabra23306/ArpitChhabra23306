@@ -13,14 +13,21 @@
 
 ---
 
-### 🛠️ Skills & Technologies  
+### 🛠️ Tools & Technologies  
 
-**Programming Languages:** C, C++, Python, JavaScript (ES6+), HTML5, CSS3  
-**Frontend:** React.js, Tailwind CSS, Context API, Responsive UI/UX  
-**Backend:** Node.js, Express.js, RESTful APIs, Authentication (Clerk, JWT)  
-**Databases & Cloud:** MongoDB, SQL, Cloudinary, Stripe  
-**Dev Tools:** Git, GitHub, VS Code, Postman, Docker (Basics), Linux  
-**Core CS Concepts:** DSA, OOP, DBMS, Operating Systems, Computer Networks, SDLC  
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" height="50"/>
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind" height="50"/>
+  
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="50"/>
+  
+  <!-- Dev Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" height="50"/>
+</p>
 
 ---
 
@@ -34,7 +41,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true" height="160" />
 </p>
-
 
 ---
 
