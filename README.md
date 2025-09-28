@@ -22,12 +22,32 @@
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,tailwind" height="50"/>
   
-  <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="50"/>
+  <!-- Backend & Auth -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" height="35"/>
+  <img src="https://img.shields.io/badge/Clerk-white?style=for-the-badge&logo=clerk&logoColor=purple" height="35"/>
+  
+  <!-- Databases & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="35"/>
   
   <!-- Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,arduino" height="50"/>
 </p>
+
+---
+
+### 📘 Core CS Subjects  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-blue?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge&logo=java&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-purple?style=for-the-badge&logo=linux&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-red?style=for-the-badge&logo=cisco&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/SDLC-grey?style=for-the-badge&logo=gitlab&logoColor=white" height="35"/>
+</p>
+
 
 ---
 
