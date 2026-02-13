@@ -1,78 +1,124 @@
 <h1 align="center">Hi 👋, I'm Arpit Chhabra</h1>
-<h3 align="center">🚀 B.Tech IT Student @ IIIT Una | MERN Stack Developer | Tech Explorer 💡 & Crypto Curious 💸</h3>
-
----
-
-### 👨‍💻 About Me  
-- 🔭 Currently building **ReactCart** & **PathBlazer (AI-powered career assistant)**  
-- 🌱 Exploring **advanced React patterns, scalable backend systems, and authentication workflows while optimizing UI/UX**.  
-- 👯 Open to collaborating on **full-stack and frontend projects**  
-- 💬 Ask me about **React.js, Tailwind CSS, MERN stack, scalable UI/UX, authentication systems**  
-- 📫 Reach me at **arpitchhabra9692@gmail.com**  
-- 🌐 Portfolio: [GitHub](https://github.com/ArpitChhabra23306) | [Codolio Profile](https://codolio.com/profile/arpitChhabra)  
-
----
-
-### 🛠️ Tools & Technologies  
+<h3 align="center">
+B.Tech IT @ IIIT Una | Full Stack Developer (MERN) | Backend & Systems Enthusiast
+</h3>
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" height="50"/>
-  
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,tailwind" height="50"/>
-  
-  <!-- Backend & Auth -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" height="35"/>
-  <img src="https://img.shields.io/badge/Clerk-white?style=for-the-badge&logo=clerk&logoColor=purple" height="35"/>
-  
-  <!-- Databases & Cloud -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="35"/>
-  
-  <!-- Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,arduino" height="50"/>
+Building scalable web systems, real-time applications, and AI-powered products.
 </p>
 
 ---
 
-### 📘 Core CS Subjects  
+## 👨‍💻 About Me  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-blue?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge&logo=java&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-purple?style=for-the-badge&logo=linux&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-red?style=for-the-badge&logo=cisco&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/SDLC-grey?style=for-the-badge&logo=gitlab&logoColor=white" height="35"/>
-</p>
+- 🎓 B.Tech Information Technology student at **IIIT Una (CGPA: 8.06 | Batch 2027)**
+- 🔭 Currently building **MindClash (AI-powered real-time debate platform)**  
+- 🌱 Learning **system design, backend scalability, caching, and performance optimization**
+- 💡 Strong fundamentals in **DSA, OOP, DBMS, OS, and Computer Networks**
+- 👯 Open to **internships, open-source, and impactful engineering projects**
+- 📫 Reach me at **arpitchhabra.work@gmail.com**
 
-
----
-
-### 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitChhabra23306&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitChhabra23306&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true" height="160" />
-</p>
+🌐 **Profiles:**  
+[GitHub](https://github.com/ArpitChhabra23306) •
+[LinkedIn](https://linkedin.com/in/arpit-chhabra-7a1a93276) •
+[Codolio](https://codolio.com/profile/arpitChhabra)
 
 ---
 
-### 🖼️ My 3D GitHub Contributions
+## 🚀 Featured Projects  
 
-![Night Green](./profile-3d-contrib/profile-night-green.svg)
+### 🧠 MindClash — AI-Powered Real-Time Debate Platform  
+**Tech:** React, Node.js, MongoDB, Socket.io, Redis, JWT, Gemini API, WebRTC, Tailwind  
+- Built a real-time, multi-user debate platform with **sub-second latency**
+- Designed **40+ REST APIs**, Redis-based caching, and scalable backend architecture
+- Integrated **AI for moderation, fact-checking, scoring, and analytics**
+- Implemented anonymous debates, spectator mode, and XP-based systems  
 
+🔗 GitHub: *(add repo link)*
 
-### 🌐 Connect with me  
+---
+
+### 🎯 CareerCraft AI — SaaS Learning & Interview Platform  
+**Tech:** MERN Stack, Gemini API, Razorpay, Cloudinary, Tailwind CSS  
+- Built a full-stack SaaS platform for **AI-based learning & interview prep**
+- Implemented **document-based AI chats, quizzes, flashcards**
+- Designed secure authentication, subscriptions, and usage limits  
+
+🔗 GitHub: *(add repo link)*
+
+---
+
+### 📺 StreamSphere — Scalable Backend API  
+**Tech:** Node.js, Express, MongoDB, JWT, Multer, Cloudinary  
+- Designed modular backend APIs across **10+ functional modules**
+- Optimized DB pipelines handling **1000+ operations**
+- Improved authentication reliability by **40%**  
+
+🔗 GitHub: *(add repo link)*
+
+---
+
+## 🛠️ Tech Stack  
+
+### Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" height="45"/>
+</p>
+
+### Frontend  
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,framer" height="45"/>
+</p>
+
+### Backend & Databases  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" height="45"/>
+</p>
+
+### Tools & Platforms  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" height="45"/>
+</p>
+
+---
+
+## 📘 Core CS Fundamentals  
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-red?style=for-the-badge"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 **Top 50 / 5000+ teams** — National Road Safety Hackathon (MoRTH)  
+- 🏅 **Top 4000 / 260,000** — Adobe Hackathon (Round 2 Qualifier)  
+- 💻 Solved **350+ DSA problems** across LeetCode & GeeksforGeeks  
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-<a href="https://linkedin.com/in/arpit-chhabra-7a1a93276" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://codolio.com/profile/arpitChhabra" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="https://instagram.com/arpit_chhabra_9692" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="mailto:arpitchhabra9692@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpitChhabra23306&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitChhabra23306&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+<a href="https://linkedin.com/in/arpit-chhabra-7a1a93276"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://github.com/ArpitChhabra23306"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="mailto:arpitchhabra.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
