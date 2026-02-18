@@ -136,10 +136,7 @@ Building scalable web systems, real-time applications, and AI-powered products.
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitChhabra23306&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitChhabra23306&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true" height="160"/>
