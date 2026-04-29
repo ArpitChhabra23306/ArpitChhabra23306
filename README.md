@@ -117,6 +117,14 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</p>
+
+---
+
 ## 📅 Monthly Contribution Activity
 
 <p align="center">
@@ -131,37 +139,7 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph"/>
 </p>
 
-> 💡 To enable the 3D graph, add this GitHub Action to your repo:
-> [`.github/workflows/profile-3d.yml`](https://github.com/yoshi389111/github-profile-3d-contrib)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📊 Coding Stats (WakaTime)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArpitChhabra23306&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
-
-> 💡 Connect your [WakaTime](https://wakatime.com) account to show live coding hours by language.
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArpitChhabra23306/ArpitChhabra23306/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
-> 💡 To enable the snake, add this GitHub Action:
-> [`.github/workflows/snake.yml`](https://github.com/Platane/snk)
+> 💡 To enable the 3D graph, add this GitHub Action: [`.github/workflows/profile-3d.yml`](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ---
 
@@ -171,9 +149,9 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
-
 <div align="center">
+
+---
 
 *Open to internships, collaborations, and impactful engineering projects.*
 
