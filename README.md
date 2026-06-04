@@ -101,7 +101,10 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+![](https://github-readme-stats.shion.dev/api?username=ArpitChhabra23306&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ArpitChhabra23306&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArpitChhabra23306&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </p>
 
 ## 📅 Contribution Activity
