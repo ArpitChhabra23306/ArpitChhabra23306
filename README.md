@@ -99,19 +99,13 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=ArpitChhabra23306&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ArpitChhabra23306&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArpitChhabra23306&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.shion.dev/api/wakatime?username=ArpitChhabra23306&theme=date_night&hide_border=false&layout=compact)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArpitChhabra23306&theme=2077)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArpitChhabra23306&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArpitChhabra23306&theme=2077)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArpitChhabra23306&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArpitChhabra23306&theme=2077&utcOffset=5.5)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=ArpitChhabra23306&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+![](https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen?style=flat-square&logo=github)
+![](https://img.shields.io/badge/Pull%20Requests-20%2B-blue?style=flat-square&logo=github)
+![](https://img.shields.io/badge/Org%20Contributions-ModelSuite%20AI-orange?style=flat-square&logo=github)
+![](https://img.shields.io/badge/LeetCode-550%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 
 
 ## 📅 Contribution Activity
