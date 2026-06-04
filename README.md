@@ -98,26 +98,17 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitChhabra23306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitChhabra23306&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArpitChhabra23306&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
----
+## 📅 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChhabra23306&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ## 📅 Contribution Activity
 
