@@ -2,7 +2,7 @@
 
 # Arpit Chhabra
 
-**Full Stack Developer · MERN · Real-Time Systems · AI/SaaS**
+**Full Stack Developer · MERN · Real-Time Systems · GenAI & RAG**
 
 B.Tech Information Technology @ IIIT Una · Batch 2027
 
@@ -18,14 +18,14 @@ B.Tech Information Technology @ IIIT Una · Batch 2027
 
 ## About
 
-I build scalable full-stack systems, real-time applications, and AI-powered SaaS products. Currently working as a **Full Stack Intern at ModelSuite AI** on a live production HR platform, and building **MindClash** — a real-time AI-powered debate platform.
+Full-Stack Developer and B.Tech IT student at IIIT Una, consistently building and shipping real-world projects across the MERN stack, GenAI, and distributed systems.
 
-- 🔭 Currently building **MindClash** — real-time AI debate platform with Socket.io, Redis & Gemini AI
-- 💼 Full Stack Intern @ **ModelSuite AI** — contributing to live production systems daily
+- 💼 Full Stack Intern @ **ModelSuite AI** — production backend with Node.js, MongoDB, Redis, Socket.io, Gemini AI, RBAC, JWT, 13+ cron jobs, and CI/CD pipelines
+- 🔭 Built **CareerCraft AI** (RAG-based SaaS) and **MindClash** (real-time debate platform — Socket.io, Redis, WebRTC)
 - 🧠 Exploring **RAG pipelines, vector search, semantic chunking & multi-modal AI**
-- 🏆 **Top 50 of 5000+** teams — National Road Safety Hackathon (MoRTH)
-- 🏆 **Top 4000 of 260,000** — Adobe Hackathon Round 2 Qualifier
-- 💡 500+ DSA problems solved across LeetCode, GFG & CodeNinjas
+- 🏆 **Top 50 of 5,000+** teams — National Road Safety Hackathon (MoRTH)
+- 🏆 **Top 4,000 of 260,000** — Adobe Hackathon Round 2 Qualifier
+- 💡 **550+ DSA problems** solved on LeetCode · **500+ GitHub commits** across repositories
 - 📫 **arpitchhabra.work@gmail.com**
 
 ---
@@ -35,7 +35,7 @@ I build scalable full-stack systems, real-time applications, and AI-powered SaaS
 ### 🔴 MindClash — AI-Powered Real-Time Debate Platform
 > MongoDB · Express.js · React.js · Node.js · Socket.io · Redis · Gemini API · WebRTC · Tailwind CSS
 
-A large-scale real-time debate platform (~8,500 LOC) supporting **1v1, team, and battle-royale** modes. Engineered WebSocket rooms for isolated high-frequency streams with sub-second latency. Integrated Gemini AI as an autonomous judge with JSON-structured prompt engineering for scoring, fact-checking & moderation. Built anonymous alias system, XP/ELO engine, spectator mode, and atomic MongoDB locks to prevent race conditions.
+A large-scale real-time debate platform supporting **1v1, team, and battle-royale** modes. Engineered WebSocket rooms for isolated high-frequency streams with sub-second latency. Integrated Gemini AI as an autonomous judge for scoring, fact-checking, and moderation. Built anonymous alias system, XP/ELO engine, spectator mode, and atomic MongoDB locks to prevent race conditions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ArpitChhabra23306/Mindclash)
 
@@ -44,7 +44,7 @@ A large-scale real-time debate platform (~8,500 LOC) supporting **1v1, team, and
 ### 🔵 CareerCraft AI — SaaS AI Learning & Interview Platform
 > MongoDB · Express.js · React.js · Llama-3.3 · Jina AI · RAG · Stripe · Brevo · Framer Motion
 
-A fully deployed SaaS platform with a custom **RAG pipeline** (Jina AI + MongoDB Vector Search + Llama 3.3-70b) for hallucination-resistant document Q&A. Features AI mock interviews, 3D animated flashcard decks, quiz generation, Stripe webhook subscriptions (Free/Pro/Enterprise), and a gamification engine with XP, streaks & global leaderboard. Built with a luxury glassmorphism UI using Framer Motion.
+A fully deployed SaaS platform with a custom **RAG pipeline** (Jina AI + MongoDB Vector Search + Llama 3.3-70b) for precise document Q&A with cosine similarity retrieval and chunk-level citation tracking. Features AI mock interviews, 3D animated flashcard decks, quiz generation, Stripe webhook subscriptions (Free/Pro/Enterprise), and a gamification engine with XP, streaks, and global leaderboard.
 
 [![Website](https://img.shields.io/badge/Live-Website-00C7B7?style=flat-square)](https://careercraft-ai-silk.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ArpitChhabra23306/CareerCraft-AI)
@@ -54,7 +54,7 @@ A fully deployed SaaS platform with a custom **RAG pipeline** (Jina AI + MongoDB
 ### 🟢 StreamSphere — Scalable Video Streaming Backend API
 > Node.js · Express.js · MongoDB · Mongoose · JWT · Multer · Cloudinary
 
-High-performance REST backend across **10+ modules** — video uploads, playlists, comments, subscriptions & channel management. Optimized MongoDB aggregation pipelines handling 1,000+ ops with 40% reliability boost. Dual-token JWT auth with bcrypt. Multer + Cloudinary integration cutting upload time by 30%.
+High-performance REST backend across **10+ modules** — video uploads, playlists, comments, subscriptions, and channel management. Optimized MongoDB aggregation pipelines with 40% reliability boost. Dual-token JWT auth with bcrypt. Multer + Cloudinary integration cutting upload time by 30%.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ArpitChhabra23306/streamSphere-Backend-API)
 
@@ -79,40 +79,34 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
 
 **DevOps & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" height="40"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="40"/>
 </p>
 
 **AI & SaaS**
 
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **GenAI & RAG**
 
 ![RAG](https://img.shields.io/badge/RAG%20Pipeline-FF6B6B?style=flat-square)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-8B5CF6?style=flat-square)
-![Semantic Chunking](https://img.shields.io/badge/Semantic%20Chunking-06B6D4?style=flat-square)
 ![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-10B981?style=flat-square)
-![Reranking](https://img.shields.io/badge/Reranking-F59E0B?style=flat-square)
-![Multi-Modal RAG](https://img.shields.io/badge/Multi--Modal%20RAG-EC4899?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Vector%20Embeddings-6366F1?style=flat-square)
-![PDF Parse](https://img.shields.io/badge/PDF--Parse-EF4444?style=flat-square)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitChhabra23306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitChhabra23306&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpitChhabra23306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitChhabra23306&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=ArpitChhabra23306&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 ---
@@ -125,21 +119,11 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
 
 ---
 
-## 📅 Monthly Contribution Activity
+## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChhabra23306&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChhabra23306&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400"/>
 </p>
-
----
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph"/>
-</p>
-
-> 💡 To enable the 3D graph, add this GitHub Action: [`.github/workflows/profile-3d.yml`](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ---
 
@@ -153,8 +137,6 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
 
 ---
 
-*Open to internships, collaborations, and impactful engineering projects.*
-
-**Let's build something extraordinary together 🚀**
+*Open to SDE internships and full-time roles · Graduating 2027*
 
 </div>
