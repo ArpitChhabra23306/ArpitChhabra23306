@@ -102,18 +102,6 @@ High-performance REST backend across **10+ modules** — video uploads, playlist
 ![](https://streak-stats.demolab.com/?user=ArpitChhabra23306&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArpitChhabra23306&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-![](https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen?style=flat-square&logo=github)
-![](https://img.shields.io/badge/Pull%20Requests-20%2B-blue?style=flat-square&logo=github)
-![](https://img.shields.io/badge/Org%20Contributions-ModelSuite%20AI-orange?style=flat-square&logo=github)
-![](https://img.shields.io/badge/LeetCode-550%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-
-
-## 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChhabra23306&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
 ## 📅 Contribution Activity
 
 <p align="center">
